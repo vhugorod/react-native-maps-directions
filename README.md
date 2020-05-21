@@ -27,7 +27,7 @@ A tiny module that uses the [React Native Linking API](https://facebook.github.i
 $ npm install --save react-native-google-maps-directions
 ```
 
-or
+or you can also use
 
 ```sh
 $ yarn add react-native-google-maps-directions
