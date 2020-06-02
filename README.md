@@ -2,7 +2,6 @@
     Google maps directions
 </h1>
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/react-native-google-maps-directions.svg)](https://greenkeeper.io/)
 [![npm version](https://img.shields.io/npm/v/react-native-google-maps-directions.svg?style=flat-square)](https://npmjs.org/package/react-native-google-maps-directions)
 [![Downloads](https://img.shields.io/npm/dm/react-native-google-maps-directions.svg?style=flat-square)](https://npmjs.org/package/react-native-google-maps-directions)
 [![Standard](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/feross/standard)
