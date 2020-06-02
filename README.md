@@ -1,6 +1,6 @@
-# react-native-google-maps-directions
-
-Get direction using Google Maps in React Native
+<h1 align="center">
+    Google maps directions
+</h1>
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/react-native-google-maps-directions.svg)](https://greenkeeper.io/)
 [![npm version](https://img.shields.io/npm/v/react-native-google-maps-directions.svg?style=flat-square)](https://npmjs.org/package/react-native-google-maps-directions)
@@ -19,7 +19,7 @@ Get direction using Google Maps in React Native
 
 ## About
 
-A tiny module that uses the [React Native Linking API](https://facebook.github.io/react-native/docs/linking.html) to get directions using [Google Maps](https://www.google.com/maps) by opening it in the default browser or app if installed.
+Get direction using Google Maps in React Native. A tiny module that uses the [React Native Linking API](https://facebook.github.io/react-native/docs/linking.html) to get directions using [Google Maps](https://www.google.com/maps) by opening it in the default browser or app if installed.
 
 ## Install
 
