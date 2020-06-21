@@ -26,7 +26,7 @@ Get direction using Google Maps in React Native. A tiny module that uses the [Re
 $ npm install --save react-native-google-maps-directions
 ```
 
-or
+or use this
 
 ```sh
 $ yarn add react-native-google-maps-directions
